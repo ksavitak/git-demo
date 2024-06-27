@@ -7,4 +7,3 @@ my native is blr
 
 
 }
-echo "HELLO WORLD"
